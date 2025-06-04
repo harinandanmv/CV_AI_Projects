@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+config.env
+
+# Log and debug files
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Saved image frames or generated files
+*.jpg
+*.png
+
+# Virtual environment folder
+venv/
+env/
